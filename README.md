@@ -1,8 +1,7 @@
 Finish Off School - Data scraping project
 
 
-Welcome to the "Finish Off School-Data Engineering" project repository! This project aims to provide a hands-on learning experience in data engineering, Docker, and GitHub. 
+Welcome to the "Finish Off School-Data scraping " project repository! This project aims to provide a hands-on learning experience in data scrping,selenium, Docker, and GitHub. 
 
-To get started with the project, follow the steps below:
-
-I have used docker and cron for the automation and load to get the marks on the map.
+I have learned selenium and beautiful soup for data scraping but used only selenium here.
+Docker and clon for the automation process (execution every 10 minutes)  than load data in map with load.py file to get the marks on the map.
